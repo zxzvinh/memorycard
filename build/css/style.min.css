@@ -1,0 +1,1 @@
+.board .cards{display:none}.board .row li{display:inline-block;border:1px solid #000;cursor:pointer;position:relative}.board .row .col li.hidden img.card-back{opacity:0}.board .row .col li img.card-front{position:absolute}.text-center{text-align:center}
